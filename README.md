@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frameworks , courses etc**
 
-- 💬 Ask me about **python,java,javascript**
+- 💬 Ask me about **Web**
 
 - 📫 How to reach me **abdullahreh00@gmail.com**
 
